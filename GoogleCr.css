@@ -1,0 +1,54 @@
+#p{
+    color: rgb(0, 136, 255);
+}
+
+#q{
+    color: red;
+}
+
+#r{
+    color: rgb(255, 221, 0);
+}
+
+#s{
+    color: rgb(0, 136, 255);
+}
+
+#t{
+    color: rgb(9, 140, 9);
+}
+
+#u{
+    color: red;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    color: aliceblue;
+    font-size: 7px;
+    margin-left: 90%;
+}
+
+input{
+    margin-left: 24%;
+    width: 53%;
+    height: 10px;
+}
+button{
+    font-size: 7px;
+}
+
+   #of{
+    color: aliceblue;
+    font-size: 9px;
+    margin-left: 23%;
+}
+
+#lang{
+    color: rgb(27, 17, 164);
+    font-size: 7px;
+    margin-left: 1%;
+}
